@@ -1,0 +1,5 @@
+full_name,email,age,gender,nationality,education,years_experience,skills,last_position,location
+Anna Müller,anna.mueller@example.com,29,Female,German,"M.Sc. Computer Science, Technical University of Munich",4,"Python, Machine Learning, SQL",Data Analyst at Allianz,Berlin
+John Smith,john.smith@example.com,35,Male,American,"B.Sc. Information Systems, MIT",7,"Java, Spring Boot, Cloud Computing",Software Engineer at Oracle,Munich
+Fatima Khan,fatima.khan@example.com,31,Female,Pakistani,"MBA, University of Mannheim",6,"Business Analysis, Project Management, Excel",Business Analyst at Bosch,Frankfurt
+Luis García,luis.garcia@example.com,27,Male,Spanish,"M.Sc. AI and Robotics, ETH Zurich",3,"Python, Robotics, TensorFlow",AI Intern at BMW,Stuttgart
